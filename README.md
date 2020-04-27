@@ -1,6 +1,7 @@
 # video_portal
 
-A new Flutter project.
+A new Flutter project. Joy Box helps you to create video from your device and keep them. You can play them, and of you want to delete a 
+video, you can delete it too. And you can update too. This was developed using flutter. 
 
 ## Getting Started
 
