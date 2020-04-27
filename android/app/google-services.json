@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752856432413",
+    "firebase_url": "https://videoportaloriginal.firebaseio.com",
+    "project_id": "videoportaloriginal",
+    "storage_bucket": "videoportaloriginal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752856432413:android:c750ee5deaea921077abf4",
+        "android_client_info": {
+          "package_name": "com.example.video_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752856432413-vbmt0t4ph300j9bqr3v55f84rdmv7ls0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0G0472IlR0wIRCRgLPY_FlchslbWZyqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752856432413-vbmt0t4ph300j9bqr3v55f84rdmv7ls0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
